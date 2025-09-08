@@ -24,7 +24,7 @@ Privacy Policy page for the Dial Mate mobile application (Android).
     <li>The app offers <strong>In-App Purchase</strong> (one-time payment to remove ads). All payments are securely processed by Google Play, and we do not receive or store any financial information.</li>
     <li>App settings (e.g., clock preferences) are stored locally on your device only.</li>
   </ul>
-  <p>If you have any questions, please contact: <a href="mailto:YOUREMAIL@example.com">YOUREMAIL@example.com</a></p>
+  <p>If you have any questions, please contact: <a href="mailto:wayne.mai1130@gmail.com">wayne.mai1130@gmail.com</a></p>
 
   <h2>中文（繁體）</h2>
   <p>Dial Mate 尊重使用者的隱私。</p>
@@ -34,6 +34,6 @@ Privacy Policy page for the Dial Mate mobile application (Android).
     <li>應用程式提供 <strong>應用程式內購買</strong>（一次性付款移除廣告）。所有付款均由 Google Play 安全處理，我們不會接收或保存任何金融資訊。</li>
     <li>使用者的設定（例如時鐘偏好）僅儲存在本機裝置。</li>
   </ul>
-  <p>如有問題，請聯絡：<a href="mailto:YOUREMAIL@example.com">YOUREMAIL@example.com</a></p>
+  <p>如有問題，請聯絡：<a href="mailto:wayne.mai1130@gmail.com">wayne.mai1130@gmail.com</a></p>
 </body>
 </html>
