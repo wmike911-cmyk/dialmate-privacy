@@ -1,6 +1,3 @@
-# dialmate-privacy
-Privacy Policy page for the Dial Mate mobile application (Android).
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
